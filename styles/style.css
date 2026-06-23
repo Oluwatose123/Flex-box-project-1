@@ -46,34 +46,34 @@
                 background-image: url('/image/NLF!.jpg') center/cover;
             }
             10%{
-                background:url('/image/NLF2.jpg') center/cover;
+                background:url('/image/NLF!.jpg') center/cover;
             }
             20%{
-                background:url('/image/NLF3.jpg') center/cover;
+                background:url('/image/NLF2.jpg') center/cover;
             }
             30%{
-                background: url('/image/NLF4.jpg') center/cover;
+                background: url('/image/NLF3.jpg') center/cover;
             }
             40%{
-                background: url('NLF4.jpg') center/cover;
+                background: url('/image/NLF4.jpg') center/cover;
             }
             50%{
-                background: url('NLF5.jpg') center/cover;
+                background: url('/image/NLF5.jpg') center/cover;
             }
             60%{
-                background: url('NLF6.jpg') center/cover;
+                background: url('/image/NLF6.jpg') center/cover;
             }
             70%{
-                background: url('NLF7.jpg') center/cover;
+                background: url('/image/NLF7.jpg') center/cover;
             }
             80%{
-                background:url('NLF8.jpg') center/cover;
+                background:url('/image/NLF8.jpg') center/cover;
             }
             90%{
-                background:url('NLF9.jpg') center/cover;
+                background:url('/image/NLF9.jpg') center/cover;
             }
             100%{
-                background:url('NLF10.jpg') center/cover;
+                background:url('/image/NLF10.jpg') center/cover;
             }
         }
         .fis{
